@@ -7,12 +7,14 @@
 
 ## 🚀 Featured Projects
 
-- [url-shortener](https://github.com/xcfio/url-shortener)
-  - A powerful, easy-to-deploy URL shortener built with Fastify 5, TypeScript 5, and Node.js 24
+- [cnpi-routine](https://github.com/xcfio/cnpi-routine)
+  - Modern Next.js 15 class scheduling app for Chapainawabganj Polytechnic Institute with TypeScript, responsive design, PDF export, and animated UI.
 
-- [weather](https://github.com/xcfio/weather)
-  - High-performance weather API built with Fastify 5, TypeScript, and Node.js 24. Provides current conditions and forecasts using OpenWeatherMap.
+- [api](https://github.com/xcfio/api)
+  - A high-performance serverless API built with Fastify, featuring rate limiting, CORS control, modular routes, and custom error handling. Production-ready with health monitoring and configurable security settings.
 
+- [vaultly]()
+  - Secure message storage with end-to-end encryption, auto-expiration, and one-time access. Built with Fastify, PostgreSQL, and deployed on Netlify.
 ---
 
 ## 🌐 Connect with Me
